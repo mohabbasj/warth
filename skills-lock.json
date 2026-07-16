@@ -7,6 +7,12 @@
       "skillPath": "skills/audit-website/SKILL.md",
       "computedHash": "da5839252ae281ecc7f56a70cf53850f9686dba51bfae7a2d07be150d6cd7f7f"
     },
+    "browser-automation": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/browser-automation/SKILL.md",
+      "computedHash": "8357cb73c83a77f473af7bda0052395d9c429320765198e9db89816c418491a7"
+    },
     "e2e-testing-patterns": {
       "source": "wshobson/agents",
       "sourceType": "github",
