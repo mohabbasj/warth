@@ -25,6 +25,12 @@
       "skillPath": "plugins/developer-essentials/skills/e2e-testing-patterns/SKILL.md",
       "computedHash": "6daed3254a84348588532aca327ec82a57cafefd7c97c50e75879788f7c1a18d"
     },
+    "performance-lighthouse-runner": {
+      "source": "jeremylongshore/claude-code-plugins-plus-skills",
+      "sourceType": "github",
+      "skillPath": "skills/05-frontend-dev/performance-lighthouse-runner/SKILL.md",
+      "computedHash": "fb36d891de58bafd6c8891adde3bcc423f759a2a63d2fbbff834bd34d696047c"
+    },
     "playwright-cli": {
       "source": "microsoft/playwright-cli",
       "sourceType": "github",
