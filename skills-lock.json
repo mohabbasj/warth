@@ -13,6 +13,12 @@
       "skillPath": "skills/browser-automation/SKILL.md",
       "computedHash": "8357cb73c83a77f473af7bda0052395d9c429320765198e9db89816c418491a7"
     },
+    "chrome-devtools": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/chrome-devtools/SKILL.md",
+      "computedHash": "85d9c4ef94e00ddfc937d50aab72a307e80b98bc7e6744ec6e239ef68819c2d7"
+    },
     "e2e-testing-patterns": {
       "source": "wshobson/agents",
       "sourceType": "github",
