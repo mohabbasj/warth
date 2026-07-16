@@ -19,6 +19,12 @@
       "skillPath": "skills/chrome-devtools/SKILL.md",
       "computedHash": "85d9c4ef94e00ddfc937d50aab72a307e80b98bc7e6744ec6e239ef68819c2d7"
     },
+    "core-web-vitals": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "github",
+      "skillPath": "skills/core-web-vitals/SKILL.md",
+      "computedHash": "8e55888cc177e994e2cbfa0ee0a277e1273c6d43c8cf7649165f9e2f39489a48"
+    },
     "e2e-testing-patterns": {
       "source": "wshobson/agents",
       "sourceType": "github",
